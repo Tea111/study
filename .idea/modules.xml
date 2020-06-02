@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/tcpDemo/demo.iml" filepath="$PROJECT_DIR$/tcpDemo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed_lock/distributed_lock.iml" filepath="$PROJECT_DIR$/distributed_lock/distributed_lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tcpDemo/tcpDemo.iml" filepath="$PROJECT_DIR$/tcpDemo/tcpDemo.iml" />
     </modules>
   </component>
 </project>
